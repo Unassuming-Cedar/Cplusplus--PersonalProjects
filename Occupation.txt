@@ -1,0 +1,30 @@
+Woodworker
+Carpenter
+Oral Surgeon
+System Adminstrator
+Chief Executive Officer
+Chief Information Officer
+Chief Finance Officer
+Gardener
+Artist
+Eletrical Engineer
+Welder
+Customer Service Representative
+Mechanic
+Insurance Agent
+Insurance Adjuster
+Mortician
+Funeral Director
+Park Ranger
+Doctor
+Nurse
+OBGYN
+Dentist
+Coal Miner
+Oil Worker
+Bartender
+Waitress
+Line Cook
+Programmer
+Software Developer
+Cybersecurity Analyst
